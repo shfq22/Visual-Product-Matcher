@@ -2,6 +2,11 @@
 
 Visual Product Matcher is a React-based web application that allows users to upload a product image and find similar items from a catalog. It uses Google's Gemini API to analyze the uploaded image and identify its product category, then fetches matching products from the [DummyJSON](https://dummyjson.com/) API.
 
+## 🚀 Live Demo
+
+You can view the live application here:  
+👉 [Visual Product Matcher](https://visual-product-matcher-eight.vercel.app/)
+
 ## Features
 
 - **Image Upload:** Upload PNG, JPG, or WEBP images (max 4MB).
